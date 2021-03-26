@@ -50,7 +50,7 @@ int main(int argc, char *argv[])
         printf("shmat() failed: %s\n", strerror(errno));
         return -1;
     }
-    char sbuf[32];
+    unsigned char sbuf[32];
     memset(sbuf, 0, sizeof sbuf);
     size_t si = 0;
     printf("\n%8.8zX  ", si);
