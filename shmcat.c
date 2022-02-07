@@ -1,6 +1,6 @@
 /*
  * Copyright (c) 2014 Nicholas J. Kain
- * Licensed under 2-clause BSD.
+ * SPDX-License-Identifier: MIT
  * Prints the contents of a SysV shm segment.
  *
  * Build: gcc -O2 -std=gnu99 shmcat.c -o shmcat

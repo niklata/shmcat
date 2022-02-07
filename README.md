@@ -2,7 +2,7 @@
 
 Copyright (c) 2014-2017 Nicholas J. Kain.
 
-License: Two-clause BSD.
+License: MIT
 
 ## Introduction
 
