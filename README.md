@@ -44,3 +44,9 @@ Now, given the <shmid>:
 The output should be very similar to that of a hex editor.  It can of
 course be redirected to a file using standard unix shell facilities.
 
+## Downloads
+
+* [GitLab](https://gitlab.com/niklata/shmcat)
+* [Codeberg](https://codeberg.org/niklata/shmcat)
+* [BitBucket](https://bitbucket.com/niklata/shmcat)
+* [GitHub](https://github.com/niklata/shmcat)
